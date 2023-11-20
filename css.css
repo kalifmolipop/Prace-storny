@@ -1,0 +1,654 @@
+body
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:rgb(65, 60, 60);
+    color: white;
+}
+html
+{
+    scroll-behavior: smooth;
+}
+.cointener
+{
+    width: 101%;
+    height: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-left: -10px;
+}
+
+.nmanu
+{
+    width: 100%;
+    height: 100px;
+    float: left;
+    background-color: black;
+    margin-top: -10px;
+}
+#obraz
+{
+    float: left;
+    width: 400px;
+    height: 250px;
+    margin-top: -60px;
+    margin-left: -50px;
+}
+#text
+{
+    font-size: 30px;
+    font-family:'Times New Roman', Times, serif;
+    letter-spacing: 2px;
+    margin-left: -90px;
+    margin-top: 60px;
+    float: left;
+}
+.textmenu
+{
+    text-decoration: none;
+    color:rgba(114, 114, 124, 1);
+    float: left;
+    min-width: 50px;
+    height: 25px;
+    font-size: 20px;
+    padding: 23px;
+   
+
+}
+#menu2
+{
+    width: 1000px;
+    height: 50px;
+    background-color: black;
+    float: left;
+    margin-left: 300px;
+}
+a:hover
+{
+    color: white;
+    background-color:rgba(114, 114, 124, 1);
+}
+
+
+.menu
+{
+    width: 100%;
+    height: 70px;
+    float: left;
+    background-color: black;
+    margin-top: 2px
+}
+
+.log
+{
+   width: 100px;
+   margin-left: auto;
+   margin-right: auto;
+}
+.log2
+{
+  width: 100px;
+  height: 100px;
+  background-color: black;
+  float: right;
+  margin-right: -710px;
+  color: white
+}
+.log2:hover
+{
+    background-color: rgba(114, 114, 124, 1);
+    width: 100px;
+    height: 100px;
+    float: right;
+}
+
+
+.obraz1
+{
+    margin-top: 3px;
+    width: 100%;
+    height: 550px;
+}
+
+.pmenu
+{
+    margin-top: 2px;
+    width: 100%;
+    height: 720px;
+    float: left;
+    background-color: black;
+}
+
+.obraz2
+{
+   
+    width: 300px;
+    height: 200px;
+}
+
+.reko
+{
+    width: 1200px;
+    height: 100px;
+    background-color: black;
+    float: left;
+    color: white;
+    margin-top: 20px;
+    margin-left: 60px;
+    font-size: 45px;
+    font-family:'Times New Roman', Times, serif;
+
+}
+
+.bok1
+{
+    width: 300px;
+    height: 540px;
+    background-color: rgb(65, 60, 60);
+    float: left;
+    margin-left: 60px;
+    margin-top: 20px;
+    -webkit-box-shadow: 0px 0px 11px 5px rgba(114, 114, 124, 1);
+    -moz-box-shadow: 0px 0px 11px 5px rgba(114, 114, 124, 1);
+    box-shadow: 0px 0px 11px 5px rgba(114, 114, 124, 1);
+}
+
+.text1
+{
+    font-size: 25px;
+    margin-top: 30px;
+    margin-left: 30px;
+   
+}
+.text2
+{
+    font-size: 16px;
+    text-align:center;
+
+}
+.textsamoch
+{
+    font-size: 15px;
+    text-decoration: none;
+    color: white;
+    float: left;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 200px;
+    height: 50px;
+    margin-top: 60px;
+    margin-left: 50px;
+    background-color: rgb(41, 41, 43);
+    border-radius: 10px 10px 10px 10px;
+
+}
+.reststr
+{
+    float: left;
+    width: 100%;
+    height: 1570px;
+    margin-top: 2px;
+    background-color: black
+}
+.samowysz
+{
+    width: 1200px;
+    height: 100px;
+    background-color:black;
+    float: left;
+    font-size: 40px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 50px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.samonu
+{
+    width: 400px;
+    height: 200px;
+    background-color:black;
+    float: left;
+    margin-left: 400px;
+    margin-top: 10px;
+    border-right: 2px solid rgba(114, 114, 124, 1);
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+.samonu1
+{
+    width: 400px;
+    height: 200px;
+    background-color: black;
+    float: left;
+    color: white;
+    margin-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.wyszu
+{
+    float: left;
+    width: 200px;
+    height: 50px;
+    background-color: black;
+    margin-top: 120px;
+    margin-left: -120px;
+    text-align: center;
+    text-decoration: none;
+    color: white;
+    
+}
+
+.samo1
+{
+    float: left;
+    width: 100%;
+    height: 400px;
+    background-color:rgb(41, 41, 43);
+    margin-top: 5px;
+}
+#obrazusam
+{
+    width: 40%;
+    height: 300px;
+    margin-left: 100px;
+    margin-top: 50px;
+    float: left;
+}
+#textsamo
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#textsamo1
+{
+    font-size: 16px;
+    float: left;
+    margin-top: 120px;
+    margin-left: -130px;
+   
+}
+#kilker1
+{
+    width: 200px;
+    height: 70px;
+    float: left;
+    background-color:black;
+    margin-top: 280px;
+    margin-left: -470px;
+   
+}
+#kilker1dalej
+{
+    text-decoration: none;
+    color: white;
+    width: 200px;
+    height: 70px;
+    float: left;
+    text-align: center;
+}
+
+#mapa
+{
+    float: right;
+    margin-top: 25px;
+    margin-right: 100px;
+    opacity: 0.7;
+    
+}
+#textmapa
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-top: 50px;
+    margin-left: 300px;
+}
+#textmapa1
+{
+    font-size: 16px;
+    float: left;
+    margin-top: 130px;
+    margin-left: -130px;
+}
+#kilkermap
+{
+    width: 200px;
+    height: 70px;
+    float: left;
+    background-color:black;
+    margin-top: 300px;
+    margin-left: -300px;
+}
+#kilkermap1
+{
+    width: 200px;
+    height: 70px;
+    text-decoration: none;
+    color: white;
+    float: left;
+    text-align: center;
+}
+
+#telefon1
+{
+    width: 500px;
+    height: 300px;
+    float: left;
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#texttelefon
+{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    float: left;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+#texttelefon1
+{
+    font-size: 16px;
+    float: left;
+    margin-top: 120px;
+    margin-left: -130px;
+}
+#texttelefon2
+{
+    font-size: 16px;
+    float: left;
+    margin-top: 150px;
+    margin-left: -470px;
+}
+
+#ktelefon
+{
+    width: 200px;
+    height: 70px;
+    float: left;
+    background-color:black;
+    margin-top: 280px;
+    margin-left: -400px;
+}
+#ktelefond
+{
+    width: 200px;
+    height: 70px;
+    text-decoration: none;
+    color: white;
+    float: left;
+    text-align: center;
+}
+
+.stopka
+{
+    float: left;
+    background-color: black;
+    width: 100%;
+    height: 100px;
+}
+#text2
+{
+    text-align: center;
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 50px;
+}
+/*----------------PODSTRONA1--------------*/
+.cointener2
+{
+    width: 100%;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -10px;
+}
+.nmenu2
+{
+    width: 100%;
+    height: 100px;
+    float: left;
+    background-color: black;
+}
+.powrot
+{
+    width: 100px;
+    height: 50px;
+    float: left;
+    background-color: white;
+    border-radius: 0px 10px 10px 0px;
+    transition: width 2s ease;
+}
+.powrot:hover
+{
+    width: 150px;
+}
+#textmenu
+{
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+.textmenup
+{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top: 15px;
+    margin-left: 25px;
+    float: left;
+    text-decoration: none;
+    color: black;
+}
+.bodytext
+{
+    width: 100%;
+    height: 2000px;
+    background-color: rgb(11, 11, 12);
+    float: left;
+    margin-top: 5px;
+}
+.npsamo
+{
+    width: 460px;
+    height: 400px;
+    float: left;
+    background-color: white;
+    margin-left: 25px;
+    margin-right: 15px;
+    margin-top: 80px;
+    border-radius: 20px 20px 20px 20px;
+}
+.obrazauto
+{   
+    float: left;
+    width: 460px;
+    height: 250px;
+    border-radius: 20px 20px 0px 0px;
+}
+.textauto
+{
+    font-size: 25px;
+    color: rgb(34, 33, 33);
+    float: left;
+    margin-top: 2px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textauto1
+{
+    font-size: 25px;
+    color:rgb(34, 33, 33);
+    float: left;
+    margin-top: 2px;
+    margin-left: 230px;
+    
+    font-family: 'Times New Roman', Times, serif;
+}
+.textauto2
+{
+    font-size: 16px;
+    color:rgb(34, 33, 33);
+    float: left;
+    margin-top: -15px;
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textblock1
+{
+    width: 300px;
+    height: 50px;
+    float: left;
+    background-color: black;
+    margin-left: 80px;
+    margin-right: 80px;
+    border-radius: 10px 10px 10px 10px;
+}
+.textauto3
+{
+    float: left;
+    font-size: 18px;
+    color: white;
+    margin-top: 15px;
+    margin-left: 70px;
+   
+    
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.stopka2
+{
+    width: 100%;
+    height: 100px;
+    background-color: black;
+    float: left;
+    margin-top: 5px;
+}
+/*podstrona 2*/
+.menu2
+{
+    float: left;
+    height: 100px;
+    width: 100%;
+    background-color: black;
+}
+#textfin
+{
+    font-size: 45px;
+    text-align: center;
+    margin-top: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.textre
+{
+    float: left;
+    width: 100%;
+    height: 500px;
+    background-color: black;
+    margin-top: 5px;
+
+}
+#obrazpara
+{
+    width: 750px;
+    height: 500px;
+    float: left;
+}
+.finas
+{
+    width: 500px;
+    height: 100px;
+    background-color: black;
+    float: left;
+    margin-top: 50px;
+    margin-left: 140px;
+}
+#finastext
+{
+    text-align: center;
+    color: white;
+    font-size: 34px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.finas2
+{
+    width: 500px;
+    height: 100px;
+    background-color: black;
+    float: left;
+    margin-top: 30px;
+    margin-left: 140px;
+}
+#finastext2
+{
+    color: white;
+    text-align: center;
+    font-size: 16px;
+}
+.kliker
+{
+    float: left;
+    width: 500px;
+    height: 50px;
+    background-color: white;
+    border-radius: 20px 20px 20px 20px;
+    margin-left: 140px;
+    margin-top: 60px;
+}
+.textfinas
+{
+    float: left;
+    font-size: 20px;
+    color: black;
+    margin-top: 15px;
+    margin-left: 190px;
+    font-family: 'Times New Roman', Times, serif;
+    text-decoration: none;
+}
+.finas3
+{
+    float: left;
+    width: 100%;
+    height: 800px;
+    background-color: black;
+    margin-top: 5px;
+}
+.finad
+{
+    width: 800px;
+    height: 100px;
+    float: left;
+    background-color: black;
+    margin-top: 80px;
+    margin-left: 370px;
+}
+#finastext3
+{
+    font-size: 30px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    color:white;
+}
+.szyauto
+{
+    width: 800px;
+    height: 400px;
+    margin-left: 350px;
+    margin-top: 50px;
+  
+}
+
+#textszy
+{
+    font-size: 30px;
+    text-decoration: none;
+    color: white;
+    float: left;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    width: 400px;
+    height: 100px;
+    margin-left: 550px;
+    background-color: rgb(41, 41, 43);
+    border-radius: 20px 20px 20px 20px;
+}
